@@ -7,9 +7,6 @@
   </picture>
 </p>
 <br clear="both" />
-
-I am a dedicated and passionate **Data Scientist** with a focus on applying advanced statistical modeling, machine learning, and data-driven insights to transform complex data into actionable solutions. My expertise spans the entire data science lifecycle, from **exploratory analysis** to **model development**, followed by **evaluation** and **visualization**.
-
 <div>
 - Statistical Modeling & Machine Learning
 </div>
@@ -42,14 +39,4 @@ I am a dedicated and passionate **Data Scientist** with a focus on applying adva
 | **⚡ GPU Acceleration**            | CuPy, RAPIDS                                           |
 | **📐 Statistical Modeling**        | Statsmodels, Hypothesis Testing, Bayesian Analysis     |
 
-</div>
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=echocraft201315&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
-    width="54%"
-    alt="languages graph" />
-  <img
-    src="https://streak-stats.demolab.com/?user=echocraft201315&theme=neon&hide_border=true&card_width=420"
-    width="45%"
-    alt="languages graph" />
 </div>
